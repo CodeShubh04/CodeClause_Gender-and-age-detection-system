@@ -27,8 +27,11 @@ This project solves that by providing an automated, scalable, and accurate compu
 ## Tech Stack
 
 -> Languages: Python
+
 -> Libraries: TensorFlow, Keras, NumPy, Pandas, Matplotlib, Seaborn, PIL
+
 -> Dataset: UTKFace Dataset
+
 -> Tools: Jupyter Notebook, GitHub
 
 ## How It Works
