@@ -6,9 +6,9 @@ It demonstrates how deep learning can be applied to visual recognition tasks to 
 
 ## Problem Statement
 
--> Businesses and digital systems often need to understand who their users are — not just in name, but by demographic traits like age and gender.
--> Manual data collection is inefficient, error-prone, and privacy-sensitive.
--> This project solves that by providing an automated, scalable, and accurate computer vision solution for age and gender prediction using facial images.
+Businesses and digital systems often need to understand who their users are — not just in name, but by demographic traits like age and gender.
+Manual data collection is inefficient, error-prone, and privacy-sensitive.
+This project solves that by providing an automated, scalable, and accurate computer vision solution for age and gender prediction using facial images.
 
 ## Key Features
 
